@@ -20,6 +20,7 @@ described are presented and analyzed.
 ![fb](https://github.com/FilzaShahid/Single-Phase-Full-Bridge-Invertor-with-120-degree-Sine-PWM/assets/58341924/ccaf61a1-29f1-4556-b12c-897c8f736a5c)
 
 ### Results:
+
 Gate signal wave forms for 120 degree conduction PWM.
 ![fbpwm](https://github.com/FilzaShahid/Single-Phase-Full-Bridge-Invertor-with-120-degree-Sine-PWM/assets/58341924/880baa69-8372-4a2d-a713-3bfcfbd65d7a)
 
@@ -36,6 +37,7 @@ Current wave form with high inductive load.
 ![unipolar](https://github.com/FilzaShahid/Single-Phase-Full-Bridge-Invertor-with-120-degree-Sine-PWM/assets/58341924/b89af7a8-b783-4c87-8b7c-24dbade47dee)
 
 ### Results:
+
 Gate signal wave forms for unipolar SPWM.
 ![bppwm](https://github.com/FilzaShahid/Single-Phase-Full-Bridge-Invertor-with-120-degree-Sine-PWM/assets/58341924/062a65df-c972-477d-8b83-d6631f86a13d)
 
